@@ -432,7 +432,7 @@ body {
 
 .navbar-brand {
   font-weight: 800;
-  font-size: 22px;
+  font-size: 14px;
   color: #ffb35c !important;
   text-shadow: 0 0 12px rgba(255,130,0,0.75);
   transition: .4s;
